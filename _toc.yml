@@ -1,0 +1,19 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: Notebooks/Chap02/2_1_Supervised_Learning
+
+  - file: Notebooks/Chap03/3_1_Shallow_Networks_I
+  - file: Notebooks/Chap03/3_2_Shallow_Networks_II
+  - file: Notebooks/Chap03/3_3_Shallow_Network_Regions
+
+  - file: Notebooks/Chap05/5_1_Least_Squares_Loss
+  - file: Notebooks/Chap05/5_2_Binary_Cross_Entropy_Loss
+  - file: Notebooks/Chap05/5_3_Multiclass_Cross_entropy
+
+  - file: Notebooks/Chap06/6_1_Line_Search
+  - file: Notebooks/Chap06/6_2_Gradient_Descent
+  - file: Notebooks/Chap06/6_3_Stochastic_Gradient_Descent
+  - file: Notebooks/Chap06/6_4_Momentum
+  - file: Notebooks/Chap06/6_5_Adam
